@@ -1,0 +1,6 @@
+vue-items-list-app:
+  js:
+    vue-items-list-app/dist/vue-items-list-app.js: {}
+  css:
+    theme:
+      vue-items-list-app/dist/vue-items-list-app.css: {}

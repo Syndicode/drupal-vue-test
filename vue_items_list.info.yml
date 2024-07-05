@@ -1,0 +1,5 @@
+name: Vue items List
+type: module
+description: 'Drupal Module with Vue.js and TypeScript'
+package: Development
+core_version_requirement: ^10

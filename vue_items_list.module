@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function vue_items_list_theme() {
+  return [
+    'vue_items_list_block' => [],
+  ];
+}
